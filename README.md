@@ -1,2 +1,2 @@
-# notes4Perl
+# note for learning Perl
 :ram: Notes for learning Perl
